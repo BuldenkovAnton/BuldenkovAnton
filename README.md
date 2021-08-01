@@ -17,7 +17,7 @@ I have created more than 100 websites, more than 10 information systems. I final
 
 [<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
-[<img align="left" alt="Bootstrap" width="26px" [youtube]src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][youtube]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][youtube]
 [<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][youtube]
 [<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][youtube]
 [<img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />][youtube]
@@ -41,6 +41,6 @@ I have created more than 100 websites, more than 10 information systems. I final
 ---
 
 ### You can contact me:
-[<img align="left" alt="YouTube" width="26px" src="https://image.flaticon.com/icons/svg/174/174833.svg" />][youtube]
+[<img align="left" alt="YouTube" width="26px" src="https://camo.githubusercontent.com/6e3d784f40fcc66…f69636f6e732f7376672f3137342f3137343838332e737667" />][youtube]
 
 [youtube]: https://www.youtube.com/channel/UCbRD-yzqLHge6bV5-aTacLw
