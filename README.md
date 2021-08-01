@@ -46,6 +46,8 @@ I have created more than 100 websites, more than 10 information systems. I final
 ---
 
 ### My latest TouTube videos:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 [more videos...][youtube]
 
 ---
