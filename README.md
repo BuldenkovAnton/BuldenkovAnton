@@ -50,6 +50,11 @@ Telegram: [BuldenkovAnton](https://t.me/BuldenkovAnton)
 
 ### My latest YouTube videos:
 <!-- YOUTUBE:START -->
+- [Свой компонент на Битрикс. Делаем Георгиевскую ленту к 75 летию Победы](https://www.youtube.com/watch?v=8Lb27pfuKco)
+- [Урок 18. Перенос проекта в интернет](https://www.youtube.com/watch?v=vzUetXj7W5w)
+- [Урок 17. Настройка хостинга, виртуальной машины Битрикс](https://www.youtube.com/watch?v=2oFj6XrIA6E)
+- [Урок 16. Покупка доменного имени и хостинга. Создадим доменную почту](https://www.youtube.com/watch?v=HoeS4nimXZw)
+- [Урок 15. Личный кабинет. Создаем страницу "Удаление маршрутов"](https://www.youtube.com/watch?v=2yt0dYaU7yE)
 <!-- YOUTUBE:END -->
 [more videos...][youtube]
 
