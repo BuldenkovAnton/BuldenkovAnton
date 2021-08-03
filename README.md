@@ -4,6 +4,9 @@
 
 I have created more than 100 websites, more than 10 information systems. I finalized and corrected ready-made projects of customers. Participated in projects as a programmer, designer, project manager.
 
+Email: [anton@buldenkov.ru](mailto:anton@buldenkov.ru)
+Telegram: [BuldenkovAnton](https://t.me/BuldenkovAnton)
+
 ---
 
 ### Skills and Tools
