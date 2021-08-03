@@ -2,7 +2,7 @@
 
 ### I'm a programmer. I'm fullstack web developer and also develop programs in C++.
 
-I have created more than 100 websites, more than 10 information systems. I finalized and corrected ready-made projects of customers. Participated in projects as a programmer, designer, project manager.
+I have created more than 50 websites, more than 10 information systems. I finalized and corrected ready-made projects of customers. Participated in projects as a programmer, designer, project manager.
 
 Email: [anton@buldenkov.ru](mailto:anton@buldenkov.ru)
 
